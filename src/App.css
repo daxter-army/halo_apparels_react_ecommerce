@@ -3,6 +3,11 @@
   src: url(./fonts/dmSansMedium.ttf)
 }
 
+html, body {
+  min-height: 100vh;
+  position: relative;
+}
+
 body {
   font-family: myFont;
   padding: 20px 40px;

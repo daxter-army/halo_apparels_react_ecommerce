@@ -9,3 +9,8 @@ A Progressive Ecommerce Web Application, built with ReactJS, Hooks, Redux, Strip
 * Firebase
 * Stripe API
 * Sass
+
+## Deployment on Heroku
+heroku create halo-apparels --buildpack https://www.github.com/mars/create-react-app-buildpack
+
+* This buildpack will optimise our code and will do the other optimisations also *
