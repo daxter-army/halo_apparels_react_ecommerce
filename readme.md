@@ -4,6 +4,7 @@ A Progressive Ecommerce Web Application, built with ReactJS, Hooks, Redux, Strip
 ### Technology Stack
 * ReactJS
 * Hooks
+* Context API
 * Redux
 * Firebase
 * Stripe API
